@@ -1,0 +1,16 @@
+{
+  "name": "kg_gameflip",
+  "version": "1.0.0",
+  "description": "Custom Gameflip watcher",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "speakeasy": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KGoehringer",
+  "license": "ISC"
+}
